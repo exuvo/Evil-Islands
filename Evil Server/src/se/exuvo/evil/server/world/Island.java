@@ -6,17 +6,15 @@ import java.util.List;
 import java.util.concurrent.ScheduledFuture;
 
 import org.apache.log4j.Logger;
-import org.newdawn.slick.geom.Shape;
-import org.newdawn.slick.util.pathfinding.PathFindingContext;
-import org.newdawn.slick.util.pathfinding.TileBasedMap;
 
 import se.exuvo.evil.server.Settings;
 import se.exuvo.evil.server.clients.Client;
+import se.exuvo.evil.server.world.systems.MovementSystem;
+import se.exuvo.evil.server.world.systems.RotationSystem;
 import se.exuvo.evil.shared.world.EventListenerr;
 import se.exuvo.evil.shared.world.EventQueue;
 import se.exuvo.evil.shared.world.NetEntity;
 import se.exuvo.evil.shared.world.NetZone;
-import se.exuvo.evil.shared.world.Position;
 import se.exuvo.evil.shared.world.Snapshot;
 
 import com.artemis.Entity;
@@ -30,7 +28,7 @@ public class Island implements Runnable {
 	
 	private Object lock = new Object();
 	
-	private float delay = Settings.getInt("updateDelay");
+	private float tickDelay = 1000 / Settings.getInt("tickrate");
 	private long oldTime = System.currentTimeMillis();
 	private ScheduledFuture<?> schedule;
 	
@@ -91,10 +89,12 @@ public class Island implements Runnable {
 	}
 	
 	public Island(int width, int height){
-		terrain = new Terrain(width, height);
+		setTerrain(new Terrain(width, height));
 		
 		world.setSystem(new MovementSystem());
 		world.setSystem(new RotationSystem());
+		
+		world.initialize();
 	}
 
 	@Override
@@ -103,14 +103,13 @@ public class Island implements Runnable {
 			synchronized (getLock()) {
 				long deltaL = System.currentTimeMillis() - oldTime;
 				oldTime += deltaL;
-				float deltaTotal = ((float)deltaL)/1000 ;
-				log.trace("Updating zone:" + deltaTotal);
+				log.trace("Updating zone:" + deltaL / 1000f);
 				
-				for(float deltaSum=0; deltaSum < deltaTotal;){
-					float delta = Math.min(deltaTotal - deltaSum, delay*3);//Max update jump is 3 ticks
+				for(int deltaSum=0; deltaSum < deltaL;){
+					float delta = Math.min(deltaL - deltaSum, tickDelay * 3);//Max update jump is 3 ticks
 					deltaSum += delta;
 					
-					world.setDelta(delta);
+					world.setDelta(1000f / delta);
 					world.process();
 					
 					//Find updated ones
@@ -206,6 +205,10 @@ public class Island implements Runnable {
 
 	public ScheduledFuture<?> getSchedule() {
 		return schedule;
+	}
+
+	public Terrain getTerrain() {
+		return terrain;
 	}
 
 }
