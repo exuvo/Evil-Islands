@@ -7,15 +7,15 @@ import com.artemis.Aspect;
 import com.artemis.ComponentMapper;
 import com.artemis.Entity;
 import com.artemis.annotations.Mapper;
-import com.artemis.systems.IntervalEntityProcessingSystem;
+import com.artemis.systems.EntityProcessingSystem;
 
-public class MovementSystem extends IntervalEntityProcessingSystem {
+public class MovementSystem extends EntityProcessingSystem {
 	@Mapper ComponentMapper<Position> pm;
 	@Mapper ComponentMapper<Velocity> vm;
 
 	@SuppressWarnings("unchecked")
 	public MovementSystem() {
-		super(Aspect.getAspectForAll(Position.class, Velocity.class), 0.1f);
+		super(Aspect.getAspectForAll(Position.class, Velocity.class));
 	}
 
 	protected void process(Entity e) {
@@ -23,8 +23,16 @@ public class MovementSystem extends IntervalEntityProcessingSystem {
 		Position p = pm.get(e);
 		Velocity v = vm.get(e);
 		
-		// Update the position.
-		p.set(p.getX() + v.getX() * world.getDelta(), p.getY() + v.getY() * world.getDelta());
+		// Update the position to the previous calculated position.
+		if(!v.isColliding()){
+			p.set(v.getNext());
+		}
+		
+		//Calculate next position.
+		Position next = v.getNext();
+		next.setX(p.getX() + v.getX() * world.getDelta());
+		next.setY(p.getY() + v.getY() * world.getDelta());
+		v.setNext(next);
 	}
 
 }

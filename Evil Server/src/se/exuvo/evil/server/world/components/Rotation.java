@@ -5,13 +5,13 @@ import org.newdawn.slick.geom.Vector2f;
 import com.artemis.Component;
 
 public class Rotation extends Component {
-	private double angle;
+	private float angle;
 
-	public double getAngle() {
+	public float getAngle() {
 		return angle;
 	}
 
-	public void setAngle(double angle) {
+	public void setAngle(float angle) {
 		if ((angle < -360) || (angle > 360)) {
 			angle = angle % 360;
 		}
@@ -23,11 +23,11 @@ public class Rotation extends Component {
 	}
 	
 	public void setAngle(Position source, Position target){
-		setAngle(source.sub(target).get().getTheta());
+		setAngle((float) source.sub(target).get().getTheta());
 	}
 	
 	public void setAngle(Vector2f v){
-		setAngle(v.getTheta());
+		setAngle((float) v.getTheta());
 	}
 
 }

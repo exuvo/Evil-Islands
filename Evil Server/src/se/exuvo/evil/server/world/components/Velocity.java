@@ -6,6 +6,8 @@ import com.artemis.Component;
 
 public class Velocity extends Component {
 	private float x, y;
+	private Position next;// Next position
+	private boolean colliding;
 
 	public float getX() {
 		return x;
@@ -14,8 +16,8 @@ public class Velocity extends Component {
 	public void setX(float x) {
 		this.x = x;
 	}
-	
-	public Vector2f get(){
+
+	public Vector2f get() {
 		return new Vector2f(getX(), getY());
 	}
 
@@ -26,5 +28,21 @@ public class Velocity extends Component {
 	public void setY(float y) {
 		this.y = y;
 	}
-	
+
+	public Position getNext() {
+		return next;
+	}
+
+	public void setNext(Position next) {
+		this.next = next;
+	}
+
+	public boolean isColliding() {
+		return colliding;
+	}
+
+	public void setColliding(boolean collidingNext) {
+		this.colliding = collidingNext;
+	}
+
 }

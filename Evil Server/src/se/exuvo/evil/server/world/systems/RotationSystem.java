@@ -7,15 +7,15 @@ import com.artemis.Aspect;
 import com.artemis.ComponentMapper;
 import com.artemis.Entity;
 import com.artemis.annotations.Mapper;
-import com.artemis.systems.IntervalEntityProcessingSystem;
+import com.artemis.systems.EntityProcessingSystem;
 
-public class RotationSystem extends IntervalEntityProcessingSystem {
+public class RotationSystem extends EntityProcessingSystem {
 	@Mapper ComponentMapper<Rotation> rm;
 	@Mapper ComponentMapper<Velocity> vm;
 
 	@SuppressWarnings("unchecked")
 	public RotationSystem() {
-		super(Aspect.getAspectForAll(Rotation.class, Velocity.class), 0.1f);
+		super(Aspect.getAspectForAll(Rotation.class, Velocity.class));
 	}
 
 	protected void process(Entity e) {

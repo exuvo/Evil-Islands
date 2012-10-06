@@ -7,65 +7,73 @@ import com.artemis.Component;
 public class Position extends Component {
 	private float x, y;
 
-	public Position(){
+	public Position() {}
+
+	public Position(float x, float y) {
+		set(x, y);
 	}
-	
-	public Position(float x, float y){
-		set(x,y);
-	}
-	
-	public Position(Position other){
+
+	public Position(Position other) {
 		set(other.getX(), other.getY());
 	}
-	
-	public Vector2f get(){
+
+	public Vector2f get() {
 		return new Vector2f(getX(), getY());
 	}
-	
-	public float getX(){
+
+	public float getX() {
 		return x;
 	}
-	
-	public float getY(){
+
+	public float getY() {
 		return y;
 	}
-	
-	public void set(float x, float y){
+
+	public void set(float x, float y) {
 		this.x = x;
 		this.y = y;
 	}
 	
-	public Position add(Position other){
-		return new Position(getX() + other.getX(),getY() + other.getY());
+	public void setX(float x) {
+		this.x = x;
 	}
 	
-	public Position sub(Position other){
-		return new Position(getX() - other.getX(),getY() - other.getY());
+	public void setY(float y) {
+		this.y = y;
 	}
-	
-	public Position set(Position other){
+
+	public Position add(Position other) {
+		return new Position(getX() + other.getX(), getY() + other.getY());
+	}
+
+	public Position sub(Position other) {
+		return new Position(getX() - other.getX(), getY() - other.getY());
+	}
+
+	public Position set(Position other) {
 		set(other.getX(), other.getY());
 		return this;
 	}
-	
+
 	@Override
-	public String toString(){
+	public String toString() {
 		return "X:" + getX() + " Y:" + getY();
 	}
-	
+
 	@Override
-	public boolean equals(Object other){
-		if(other instanceof Position){
+	public boolean equals(Object other) {
+		if (other instanceof Position) {
 			Position p = (Position) other;
-			if(getX() == p.getX() && getY() == p.getY()){
-				return true;
-			}
+			return (getX() == p.getX()) && (getY() == p.getY());
 		}
 		return false;
 	}
-	
-	public float distance(Position other){
-		return get().distance(other.get());
+
+	public float distance(Position other) {
+		float dx = other.getX() - getX();
+		float dy = other.getY() - getY();
+
+		return (float) Math.sqrt((dx * dx) + (dy * dy));
 	}
 
 }
