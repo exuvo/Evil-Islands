@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Log4j"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Log4jUtils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StandardUtils"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSAP"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Settings"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Evil Network"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Slick"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kryo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kryonet"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/artemis"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/junit"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

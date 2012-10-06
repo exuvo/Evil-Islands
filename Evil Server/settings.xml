@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mmo>
+<settings>
+<loglvl type="s">DEBUG</loglvl>
+<updateThreads type="i">8</updateThreads>
+<port type="i">60050</port>
+<updateDelay type="i">100</updateDelay>
+<console type="b">true</console>
+</settings>
+</mmo>
