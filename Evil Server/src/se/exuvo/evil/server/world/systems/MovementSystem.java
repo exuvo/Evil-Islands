@@ -22,13 +22,13 @@ public class MovementSystem extends EntityProcessingSystem {
 		// Get the components from the entity using component mappers.
 		Position p = pm.get(e);
 		Velocity v = vm.get(e);
-		
+
 		// Update the position to the previous calculated position.
-		if(!v.isColliding()){
+		if (!v.isColliding()) {
 			p.set(v.getNext());
 		}
-		
-		//Calculate next position.
+
+		// Calculate next position.
 		Position next = v.getNext();
 		next.setX(p.getX() + v.getX() * world.getDelta());
 		next.setY(p.getY() + v.getY() * world.getDelta());

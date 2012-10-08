@@ -35,15 +35,15 @@ public class Planet {
 	}
 
 	public static Entity getEntityByUUID(UUID id) {
-		// for(Island z : zones){
-		// synchronized (z.getLock()) {
-		// Entity e = z.getEntityById(id);
-		// if(e != null){
-		// return e;
-		// }
-		//
-		// }
-		// }
+//		for (Island z : zones) {
+//			synchronized (z.getLock()) {
+//				Entity e = z.getEntityById(id);
+//				if (e != null) {
+//					return e;
+//				}
+//
+//			}
+//		}
 		return null;
 	}
 

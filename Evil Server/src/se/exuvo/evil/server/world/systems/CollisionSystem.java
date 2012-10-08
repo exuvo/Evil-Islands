@@ -24,19 +24,15 @@ import com.artemis.utils.Bag;
 import com.artemis.utils.ImmutableBag;
 
 public class CollisionSystem extends IntervalEntitySystem {
-	@Mapper
-	private ComponentMapper<Velocity> vm;
-	@Mapper
-	ComponentMapper<CollisionShape> cm;
-	@Mapper
-	ComponentMapper<Rotation> rm;
+	@Mapper private ComponentMapper<Velocity> vm;
+	@Mapper ComponentMapper<CollisionShape> cm;
+	@Mapper ComponentMapper<Rotation> rm;
 	private GroupManager gm;
 	private PlayerManager pm;
 
 	@SuppressWarnings("unchecked")
 	public CollisionSystem() {
-		super(Aspect.getAspectForAll(Velocity.class, CollisionShape.class,
-				Rotation.class), 0.1f);
+		super(Aspect.getAspectForAll(Velocity.class, CollisionShape.class, Rotation.class), 0.1f);
 		gm = world.getManager(GroupManager.class);
 		pm = world.getManager(PlayerManager.class);
 	}
@@ -60,8 +56,8 @@ public class CollisionSystem extends IntervalEntitySystem {
 
 					for (CollisionLayer cl : lc.getLayers()) {
 						// TODO check all terrain occupied by Entity
-						if (island.getTerrain().getSquares()[(int) p1.getX() / Square.size][(int) p1
-								.getY() / Square.size].getLayers().contains(cl)) {
+						if (island.getTerrain().getSquares()[(int) p1.getX() / Square.size][(int) p1.getY() / Square.size].getLayers()
+								.contains(cl)) {
 							layerCheckPassed = true;
 							if (!lc.isRequireAll()) {// Only 1 is necessary
 								break;
@@ -92,12 +88,8 @@ public class CollisionSystem extends IntervalEntitySystem {
 			Shape s1 = getTranslatedCollisionShape(c1.getShape(), p1, r1.getAngle());
 
 			// Map edge collision
-			if (s1.getMinX() < 0
-					|| s1.getMinY() < 0
-					|| s1.getMaxY() > island.getTerrain().getSquares().length
-							* Square.size
-					|| s1.getMaxX() > island.getTerrain().getSquares()[0].length
-							* Square.size) {
+			if (s1.getMinX() < 0 || s1.getMinY() < 0 || s1.getMaxY() > island.getTerrain().getSquares().length * Square.size
+					|| s1.getMaxX() > island.getTerrain().getSquares()[0].length * Square.size) {
 
 				collisions.add(new Collision(e1));// Out of bounds
 			}
@@ -114,11 +106,9 @@ public class CollisionSystem extends IntervalEntitySystem {
 
 				// Collision check
 				if (canCollide(e1, e2)) {
-					Shape s2 = getTranslatedCollisionShape(c2.getShape(), p2,
-							r2.getAngle());
+					Shape s2 = getTranslatedCollisionShape(c2.getShape(), p2, r2.getAngle());
 
-					if (s1.getBoundingCircleRadius() + s2.getBoundingCircleRadius() < p1
-							.distance(p2)) {// fast check
+					if (s1.getBoundingCircleRadius() + s2.getBoundingCircleRadius() < p1.distance(p2)) {// fast check
 						// Not colliding
 						// }else if(s2.getMaxX()<s1.getMinX() ||
 						// s2.getMaxY()<s1.getMinY() ||
@@ -155,8 +145,7 @@ public class CollisionSystem extends IntervalEntitySystem {
 	}
 
 	public boolean canCollide(Entity e1, Entity e2) {
-		if (gm.isInGroup(e1, Groups.BUILDINGS)
-				|| gm.isInGroup(e2, Groups.BUILDINGS)) {
+		if (gm.isInGroup(e1, Groups.BUILDINGS) || gm.isInGroup(e2, Groups.BUILDINGS)) {
 			return true;
 		}
 
@@ -168,8 +157,7 @@ public class CollisionSystem extends IntervalEntitySystem {
 	}
 
 	public Shape getTranslatedCollisionShape(Shape s, Position p, float rotation) {
-		return s.transform(Transform.createTranslateTransform(p.getX(), p.getY()))
-				.transform(Transform.createRotateTransform(rotation));
+		return s.transform(Transform.createTranslateTransform(p.getX(), p.getY())).transform(Transform.createRotateTransform(rotation));
 	}
 
 	class Collision {

@@ -29,17 +29,17 @@ public class PathfindingSystem extends IntervalEntityProcessingSystem {
 	protected void process(Entity e) {
 		Position p = pm.get(e);
 		PathComponent f = pfm.get(e);
-		
+
 		f.setOwner(e);
 		findPath(p, start, goal, mustReach);
 	}
-	
-	public Path findPath(PathComponent p, Position start, Position goal, boolean mustReach){
+
+	public Path findPath(PathComponent p, Position start, Position goal, boolean mustReach) {
 		Island island = (Island) world;
 		PathFinder f = new AStarPathFinder(island.getTerrain(), 100, false);
 		SquarePos s = new SquarePos(start);
 		SquarePos g = new SquarePos(goal);
-		
+
 		return f.findPath(p, s.x, s.y, g.x, g.y, mustReach);
 	}
 

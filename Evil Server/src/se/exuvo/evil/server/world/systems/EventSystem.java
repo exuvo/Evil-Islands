@@ -24,15 +24,15 @@ public class EventSystem extends EntityProcessingSystem {
 	@Override
 	protected void process(Entity e) {
 		// TODO Auto-generated method stub
-		
+
 	}
-	
-	public void registerReaction(Entity e, Class<? extends EventObject> o, EventReaction r){
-		
+
+	public void registerReaction(Entity e, Class<? extends EventObject> o, EventReaction r) {
+
 	}
-	
-	public void fireEvent(Entity e, EventObject o){
-		
+
+	public void fireEvent(Entity e, EventObject o) {
+
 	}
 
 }
