@@ -2,6 +2,7 @@ package se.exuvo.evil.server.world.systems;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import se.exuvo.evil.server.world.components.PowerConsumer;
 import se.exuvo.evil.server.world.components.PowerGenerator;
@@ -28,10 +29,18 @@ public class PowerSystem extends IntervalEntityProcessingSystem {
 	}
 
 	@Override
+	protected void begin() {
+		for (Entry<Integer, PlayerPowerStatus> status : totals.entrySet()) {
+			status.setValue(new PlayerPowerStatus());
+		}
+	}
+	
+	
+	@Override
 	protected void process(Entity e) {
 		int playerHash = pm.getPlayer(e).hashCode();
 		
-		PlayerPowerStatus total = totals.get(playerHash);
+		PlayerPowerStatus total = getPowerStatus(playerHash);
 		
 		// getSafe returns null if the entity doesn't have that component.
 		PowerGenerator gen = gm.getSafe(e);
@@ -54,8 +63,13 @@ public class PowerSystem extends IntervalEntityProcessingSystem {
 	}
 	
 	
+	
 	public PlayerPowerStatus getPowerStatus(int playerHash) {
-		return totals.get(playerHash);
+		PlayerPowerStatus status = totals.get(playerHash);
+		if (status == null) {
+			totals.put(playerHash, new PlayerPowerStatus())
+		}
+		return status;
 	}
 	
 	public PlayerPowerStatus getPowerStatus(String player) {
