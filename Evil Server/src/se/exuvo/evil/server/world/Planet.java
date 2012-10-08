@@ -7,10 +7,10 @@ import java.util.UUID;
 
 import org.apache.log4j.Logger;
 
+import se.exuvo.evil.server.world.events.ConnectEvent;
+import se.exuvo.evil.server.world.events.EventQueue;
+import se.exuvo.evil.server.world.events.EventReaction;
 import se.exuvo.evil.server.world.o.abilities.Ability;
-import se.exuvo.evil.server.world.o.events.ConnectEvent;
-import se.exuvo.evil.shared.world.EventListenerr;
-import se.exuvo.evil.shared.world.EventQueue;
 
 import com.artemis.Entity;
 
@@ -70,7 +70,7 @@ public class Planet {
 	 * @param t The type of EventObject to listen for.
 	 * @return
 	 */
-	public static boolean addEventListener(EventListenerr l, Class<? extends EventObject> o) {
+	public static boolean addEventListener(EventReaction l, Class<? extends EventObject> o) {
 		EventQueue q = getEventQueue(o);
 		if (q != null) {
 			q.addEventListener(l);
@@ -89,7 +89,7 @@ public class Planet {
 
 		Island z = new Island(50, 50);
 
-		addEventListener(new EventListenerr() {
+		addEventListener(new EventReaction() {
 			@Override
 			public void event(EventObject e) {
 				log.info("A Player has joined");

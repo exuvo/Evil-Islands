@@ -4,13 +4,12 @@ import java.util.EventObject;
 
 import se.exuvo.evil.server.world.Entity;
 import se.exuvo.evil.server.world.Movable;
-import se.exuvo.evil.server.world.o.events.*;
+import se.exuvo.evil.server.world.events.*;
 import se.exuvo.evil.shared.connection.InvalidOrderException;
-import se.exuvo.evil.shared.world.EventListenerr;
 import se.exuvo.evil.shared.world.Position;
 import se.exuvo.evil.shared.world.NetAbility.validTarget;
 
-public class Move extends Ability implements EventListenerr{
+public class Move extends Ability implements EventReaction{
 	
 	public Move(){
 		super("Move", new validTarget[]{validTarget.point,validTarget.entity});

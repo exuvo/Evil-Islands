@@ -10,7 +10,7 @@ import se.exuvo.evil.server.Settings;
 import se.exuvo.evil.server.clients.Client.Access;
 import se.exuvo.evil.server.world.Planet;
 import se.exuvo.evil.server.world.ThreadHandler;
-import se.exuvo.evil.server.world.o.events.ConnectEvent;
+import se.exuvo.evil.server.world.events.ConnectEvent;
 import se.exuvo.evil.server.world.o.units.Genius;
 import se.exuvo.evil.server.world.o.units.minions.Worker;
 import se.exuvo.evil.shared.connection.ClientCommands;
