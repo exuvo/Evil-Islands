@@ -54,12 +54,12 @@ public class PowerSystem extends IntervalEntityProcessingSystem {
 	}
 	
 	
-	public PlayerPowerStatus getPlayerPowerStatus(int playerHash) {
+	public PlayerPowerStatus getPowerStatus(int playerHash) {
 		return totals.get(playerHash);
 	}
 	
-	public PlayerPowerStatus getPlayerPowerStatus(String player) {
-		return getPlayerPowerStatus(player.hashCode());
+	public PlayerPowerStatus getPowerStatus(String player) {
+		return getPowerStatus(player.hashCode());
 	}
 	
 	
