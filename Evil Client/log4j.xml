@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd" >
+<log4j:configuration>
+	<appender name="file" class="org.apache.log4j.FileAppender" >
+       <param name="File" value="log.log" />
+       <param name="Append" value="true" />
+       <layout class="org.apache.log4j.PatternLayout">
+           <!-- <param name="ConversionPattern" value="[%p] %d{[yyyy-MM-dd] [HH:mm:ss]} %C{1}.%M %m%n"/> -->
+           <param name="ConversionPattern" value="[%5.10p] %d{[yyyy-MM-dd] [HH:mm:ss,SSS]} [%10.10t] %25C{2}.%M %x - %m%n"/>
+       </layout>
+    </appender>
+    <appender name="file-error" class="org.apache.log4j.FileAppender" >
+       <param name="File" value="log.error" />
+       <param name="Threshold" value="error"/> 
+       <param name="Append" value="true" />
+       <layout class="org.apache.log4j.PatternLayout">
+           <!-- <param name="ConversionPattern" value="[%p] %d{[yyyy-MM-dd] [HH:mm:ss]} %C{1}.%M %m%n"/> -->
+           <param name="ConversionPattern" value="[%5.10p] %d{[yyyy-MM-dd] [HH:mm:ss,SSS]} [%10.10t] %25C{2}.%M %x - %m%n"/>
+       </layout>
+    </appender>
+    <appender name="stdout" class="org.apache.log4j.ConsoleAppender">
+       <layout class="org.apache.log4j.PatternLayout">
+           <param name="ConversionPattern" value="[%p] %d{[HH:mm:ss]} %C{3}.%M %m%n"/>
+       </layout>
+    </appender>
+    <appender name="stdout-error" class="org.apache.log4j.ConsoleAppender">
+   		<param name="Threshold" value="error"/> 
+		<layout class="org.apache.log4j.PatternLayout">
+        	<param name="ConversionPattern" value="[%p] %d{[HH:mm:ss]} %C{3}.%M %m%n"/>
+       	</layout>
+  	</appender>
+	<root>
+		<level value="warn" />
+		<appender-ref ref="file" />
+		<appender-ref ref="file-error" />
+		<appender-ref ref="stdout" />
+	</root>
+	<logger name="se.exuvo" additivity="false">
+		<level value="info"/>
+		<appender-ref ref="file" />
+		<appender-ref ref="file-error" />
+		<appender-ref ref="stdout-error" />
+	</logger>
+</log4j:configuration>

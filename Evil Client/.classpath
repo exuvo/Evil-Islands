@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Log4j"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Log4jUtils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StandardUtils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSAP"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Settings"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MMO Shared"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TWL"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kryo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kryonet"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Slick"/>
+	<classpathentry kind="lib" path="lib/JMikMod-0.4.0.jar" sourcepath="lib/JMikMod-0.4.0-src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

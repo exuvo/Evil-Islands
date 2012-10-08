@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mmoClient>
+<settings>
+<loglvl type="s">DEBUG</loglvl>
+<timeout type="i">10000</timeout>
+<autoConnect type="b">false</autoConnect>
+<port type="i">60050</port>
+<server type="s">127.0.0.1</server>
+<GUI.FrameLimit type="i">60</GUI.FrameLimit>
+<GUI.Width type="i">1024</GUI.Width>
+<GUI.Height type="i">600</GUI.Height>
+<GUI.Fullscreen type="b">false</GUI.Fullscreen>
+<GUI.VSync type="b">true</GUI.VSync>
+<GUI.AlwaysRender type="b">true</GUI.AlwaysRender>
+<GUI.ShowFPS type="b">true</GUI.ShowFPS>
+<SoundVolume type="f">0.4</SoundVolume>
+<MusicVolume type="f">0.2</MusicVolume>
+</settings>
+</mmoClient>

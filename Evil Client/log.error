@@ -1,0 +1,1344 @@
+[FATAL] [2010-12-01] [09:32:52,400] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:33:22,987] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:40:19,981] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:47:57,115] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:48:36,956] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:49:28,629] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:58:04,849] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:58:37,124] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [10:59:45,967] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:00:20,611] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:04:32,147] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:04:45,468] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:05:50,293] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:06:40,810] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:19:40,775] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:20:11,001] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:20:39,011] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:20:56,501] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:21:36,869] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:21:47,744] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:21:48,323] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:22:24,302] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:22:32,917] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:23:53,860] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:25:31,052] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:27:29,515] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:28:21,106] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:29:10,600] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:30:17,920] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [11:32:31,764] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:16:40,507] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:26:55,375] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:28:34,222] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:32:55,786] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:33:35,290] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:35:39,023] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:40:14,950] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:40:25,838] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:46:25,780] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:47:09,354] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:51:04,594] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:52:45,972] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:53:13,009] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:55:08,478] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:58:37,624] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [12:59:40,441] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:02:13,144] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:03:27,791] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:05:40,689] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:06:16,398] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:06:50,455] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:07:52,184] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:13:46,421] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:18:18,563] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:22:57,374] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:24:08,853] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:24:52,974] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:26:27,659] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:27:18,415] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:27:35,028] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:28:39,777] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:34:15,339] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:37:40,610] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:38:40,845] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:41:57,932] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:43:19,243] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:45:39,628] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:45:47,105] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:46:05,721] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:46:14,519] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:46:25,053] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:46:32,125] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:46:39,328] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:49:53,252] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:50:09,504] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:50:31,335] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:53:52,135] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:54:23,872] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:57:39,702] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:58:20,834] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [13:58:26,537] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:00:30,787] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:07:03,514] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:08:01,202] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:09:49,577] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:10:17,171] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:10:39,576] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:13:54,773] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:15:10,461] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:15:48,089] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:15:56,706] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:17:11,438] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:18:29,946] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:22:47,431] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:25:37,186] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:27:13,297] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:27:26,154] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:27:53,615] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:39:59,986] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [14:40:27,776] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:04:00,656] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:05:20,529] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:07:50,563] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:08:48,177] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:24:07,338] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [15:25:02,865] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:11:22,983] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:15:11,637] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:15:24,089] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:17:05,479] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:18:32,943] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:26:01,129] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [16:41:11,213] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [17:24:29,067] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [17:28:19,008] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [18:31:44,128] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [18:51:44,448] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:02:20,411] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:08:34,170] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:15:10,458] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:19:20,446] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:19:31,010] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:20:50,429] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:22:57,731] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:26:14,312] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:33:03,495] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:34:16,473] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:35:04,333] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:36:14,044] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:37:23,562] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:38:16,891] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:39:01,214] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [19:53:49,247] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:43:38,122] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:48:25,664] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:51:06,109] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:52:35,405] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:53:05,650] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:53:41,344] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:56:39,781] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:57:50,666] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:58:45,953] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [21:59:08,398] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:00:40,639] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:01:03,193] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:01:15,291] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:01:39,792] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:04:09,501] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:04:22,362] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:04:45,412] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:05:22,097] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:06:18,589] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:06:26,318] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:06:36,078] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:06:45,358] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:06:53,566] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:00,195] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:06,433] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:13,899] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:22,229] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:30,745] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:39,363] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:07:52,642] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:08:07,434] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:08:58,050] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:09:20,712] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:16:06,234] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:16:34,440] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:17:29,274] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-01] [22:18:01,222] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [08:52:23,179] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [08:56:55,267] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [09:01:26,918] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [09:02:33,484] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [09:03:19,869] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [13:39:20,421] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [13:51:04,322] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [14:05:08,769] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [14:12:37,275] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [20:46:44,237] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [20:48:43,202] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [21:23:24,079] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [21:23:53,608] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [21:26:42,418] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [21:31:21,558] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [21:51:47,288] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:00:43,650] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:11:37,712] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:14:53,375] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:28:29,102] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:28:33,897] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:57:04,608] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [22:57:14,943] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [23:02:15,023] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-02] [23:18:20,815] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:10:52,337] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:11:55,854] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:12:00,482] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:14:16,391] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:15:39,777] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:16:27,995] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:16:29,226] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:16:40,367] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:16:47,676] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:18:55,672] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:18:57,976] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:20:44,719] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:22:10,786] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:24:01,273] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [08:25:14,470] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [21:15:28,305] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [21:27:39,631] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [21:28:11,822] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [21:28:17,316] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [22:16:45,987] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [22:16:52,480] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [22:17:40,274] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [22:48:12,034] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [22:48:17,588] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [23:07:52,229] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [23:20:56,429] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [23:21:01,381] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [23:25:00,688] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-03] [23:34:10,133] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [00:01:21,442] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [00:07:15,458] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [00:10:16,524] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [12:57:11,733] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [13:33:51,796] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:29:25,256] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:29:32,384] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:34:55,691] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:42:32,078] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:42:46,777] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:42:59,662] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:43:27,219] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:45:45,534] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:45:58,043] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:46:28,571] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:47:12,994] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [14:58:00,314] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:06:09,985] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:08:27,011] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:11:03,282] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:15:33,933] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:16:19,078] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:27:30,995] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:31:26,581] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:34:49,997] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:37:26,642] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:38:10,909] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:39:26,113] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:40:41,212] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:44:47,747] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:48:17,495] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:49:41,460] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:51:42,427] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:51:58,944] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:53:02,229] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:53:36,820] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [15:54:01,627] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:00:34,713] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:00:55,963] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:03:06,715] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:05:48,842] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:48:31,508] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:53:05,720] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [16:55:58,277] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-04] [17:01:05,909] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [00:14:01,961] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [00:14:29,896] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [00:16:12,209] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [00:16:17,205] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:14:16,582] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:19:33,766] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:21:28,149] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:22:10,585] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:24:23,457] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:26:58,580] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [12:28:55,978] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [15:39:28,468] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [15:41:08,010] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [15:59:07,753] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [15:59:30,485] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:13:29,029] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:19:11,526] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:19:17,116] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:19:41,418] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:19:58,226] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:20:57,351] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:21:48,315] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:22:55,031] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:23:54,103] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [16:33:18,881] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:02:23,030] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:04:45,492] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:06:18,836] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:07:51,892] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:12:13,893] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:47:42,280] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [17:59:15,761] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:00:02,232] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:00:27,644] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:01:03,773] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:02:40,656] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:03:40,004] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:04:01,664] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:04:31,283] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:04:54,443] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:05:57,662] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:06:31,306] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:09:30,470] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:22:06,616] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-05] [18:23:40,678] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [10:10:00,261] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [10:13:15,904] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [10:14:36,820] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [10:14:42,631] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [10:20:53,044] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-06] [14:13:50,821] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-07] [18:39:32,299] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-07] [18:43:29,234] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-08] [12:51:23,224] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2010-12-08] [12:53:02,079] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-02-04] [09:57:50,953] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-02-15] [08:54:56,033] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-02-15] [08:58:27,078] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-01] [15:36:34,866] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-01] [15:37:23,432] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-01] [15:37:46,913] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-01] [20:07:22,977] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-02] [14:21:03,167] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-02] [21:28:10,270] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-02] [21:29:28,514] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-03] [16:18:58,788] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-03-03] [16:21:32,013] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection.
+com.esotericsoftware.kryo.SerializationException: Encountered unregistered class ID: 100
+	at com.esotericsoftware.kryo.Kryo.readClass(Kryo.java:455)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:553)
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:139)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:229)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:287)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-03] [16:37:49,266] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-03] [16:44:56,631] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-03] [16:54:07,284] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [12:58:17,706] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:00:49,990] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:31:17,836] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:33:44,784] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:37:56,624] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:43:39,215] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:50:58,622] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:51:42,284] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [13:52:02,640] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:13:10,619] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:18:48,386] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:20:16,835] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:40:58,617] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:44:02,168] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:52:06,575] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-03-04] [15:52:17,562] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:231)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:14)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-03-04] [15:52:48,066] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-03-04] [15:53:49,330] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:231)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+size (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.get(IntSerializer.java:111)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.readObjectData(IntSerializer.java:61)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.readObjectData(IntSerializer.java:15)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-03-04] [15:55:11,557] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [15:55:53,315] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(ArrayList.java:547)
+	at java.util.ArrayList.get(ArrayList.java:322)
+	at se.exuvo.mmo.client.gui.Game.mouseReleased(Game.java:473)
+	at TWLSlick.RootPane.handleEvent(RootPane.java:96)
+	at de.matthiasmann.twl.GUI.sendMouseEvent(GUI.java:802)
+	at de.matthiasmann.twl.GUI.handleMouse(GUI.java:604)
+	at TWLSlick.TWLInputForwarder.mouseReleased(TWLInputForwarder.java:94)
+	at org.newdawn.slick.Input.poll(Input.java:1230)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:635)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:408)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-04] [16:47:16,763] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-03-04] [16:47:38,671] [  Thread-8]      shared.MinlogTolog4j.log  - [kryonet] Unable to send TCP with connection: Connection 2
+com.esotericsoftware.kryo.SerializationException: Unable to serialize object of type: com.esotericsoftware.kryonet.rmi.ObjectSpace$InvokeMethod
+	at com.esotericsoftware.kryonet.TcpConnection.send(TcpConnection.java:186)
+	at com.esotericsoftware.kryonet.Connection.sendTCP(Connection.java:67)
+	at com.esotericsoftware.kryonet.rmi.ObjectSpace$RemoteInvocationHandler.invoke(ObjectSpace.java:301)
+	at $Proxy3.issueOrder(Unknown Source)
+	at se.exuvo.mmo.client.gui.Game$7.run(Game.java:495)
+Caused by: com.esotericsoftware.kryo.SerializationException: Unable to serialize object of type: com.esotericsoftware.kryonet.rmi.ObjectSpace$InvokeMethod
+	at com.esotericsoftware.kryo.Kryo.writeClassAndObject(Kryo.java:485)
+	at com.esotericsoftware.kryonet.TcpConnection.send(TcpConnection.java:184)
+	... 4 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Unable to serialize object of type: se.exuvo.mmo.shared.world.NetOrder
+	at com.esotericsoftware.kryo.Kryo.writeClassAndObject(Kryo.java:485)
+	at com.esotericsoftware.kryonet.rmi.ObjectSpace$InvokeMethod.writeObjectData(ObjectSpace.java:395)
+	at com.esotericsoftware.kryo.serialize.CustomSerializer.writeObjectData(CustomSerializer.java:28)
+	at com.esotericsoftware.kryo.Kryo.writeClassAndObject(Kryo.java:481)
+	... 5 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+name (se.exuvo.mmo.shared.world.NetAbility)
+ability (se.exuvo.mmo.shared.world.NetOrder)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.writeObjectData(FieldSerializer.java:183)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.writeObjectData(FieldSerializer.java:167)
+	at com.esotericsoftware.kryo.Kryo.writeClassAndObject(Kryo.java:481)
+	... 8 more
+Caused by: java.lang.NullPointerException
+	at com.esotericsoftware.kryo.serialize.StringSerializer.put(StringSerializer.java:29)
+	at com.esotericsoftware.kryo.serialize.StringSerializer.writeObjectData(StringSerializer.java:24)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.writeObjectData(FieldSerializer.java:172)
+	... 10 more
+[FATAL] [2011-03-04] [18:25:57,598] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [18:31:19,960] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [18:36:07,352] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [18:43:10,537] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [18:47:43,850] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-04] [19:14:37,944] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-07] [08:09:46,264] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-07] [08:15:30,423] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-07] [09:29:06,778] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-08] [15:17:36,354] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [08:30:18,519] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [08:34:26,931] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [08:37:59,139] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [09:17:12,170] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [09:25:45,944] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [09:25:49,739] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [10:09:06,440] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-03-09] [10:15:44,545] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection.
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: char
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:565)
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:139)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:229)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:287)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:480)
+	at java.nio.DirectByteBuffer.getChar(DirectByteBuffer.java:447)
+	at com.esotericsoftware.kryo.serialize.CharSerializer.readObjectData(CharSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.CharSerializer.readObjectData(CharSerializer.java:14)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 4 more
+[FATAL] [2011-03-09] [14:02:53,120] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-09] [14:04:03,793] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:10:36,897] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:38:11,408] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:44:35,900] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:46:43,627] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:48:09,237] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.ArithmeticException: / by zero
+	at org.lwjgl.opengl.Display.sync(Display.java:424)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:696)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:408)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [08:48:28,418] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [08:48:30,768] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.ArithmeticException: / by zero
+	at org.lwjgl.opengl.Display.sync(Display.java:424)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:696)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:408)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [08:48:51,364] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:12:25,248] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:19:46,231] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:24:30,173] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:24:32,351] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:39:24,583] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:46:58,646] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:49:40,703] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:54:52,948] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:54:54,716] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException: owner
+	at de.matthiasmann.twl.PopupWindow.<init>(PopupWindow.java:73)
+	at TWLSlick.BasicTWLGameState.disp(BasicTWLGameState.java:110)
+	at se.exuvo.mmo.client.gui.Loading.init(Loading.java:58)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [09:57:30,778] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:57:32,875] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.RuntimeException: Attempt to use deferred sound before loading
+	at org.newdawn.slick.openal.DeferredSound.checkTarget(DeferredSound.java:59)
+	at org.newdawn.slick.openal.DeferredSound.playAsMusic(DeferredSound.java:122)
+	at org.newdawn.slick.Music.startMusic(Music.java:243)
+	at org.newdawn.slick.Music.loop(Music.java:222)
+	at se.exuvo.mmo.client.gui.Loading.enter(Loading.java:45)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:175)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [09:58:14,634] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:58:16,307] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.RuntimeException: Attempt to use deferred sound before loading
+	at org.newdawn.slick.openal.DeferredSound.checkTarget(DeferredSound.java:59)
+	at org.newdawn.slick.openal.DeferredSound.playAsMusic(DeferredSound.java:122)
+	at org.newdawn.slick.Music.startMusic(Music.java:243)
+	at org.newdawn.slick.Music.loop(Music.java:222)
+	at se.exuvo.mmo.client.gui.Loading.init(Loading.java:57)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [09:58:28,960] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [09:58:31,049] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.RuntimeException: Attempt to use deferred sound before loading
+	at org.newdawn.slick.openal.DeferredSound.checkTarget(DeferredSound.java:59)
+	at org.newdawn.slick.openal.DeferredSound.playAsMusic(DeferredSound.java:122)
+	at org.newdawn.slick.Music.startMusic(Music.java:243)
+	at org.newdawn.slick.Music.loop(Music.java:222)
+	at se.exuvo.mmo.client.gui.Loading.enter(Loading.java:45)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:175)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-10] [09:58:43,885] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [10:05:33,147] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [10:10:33,762] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [10:16:44,746] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [10:21:55,719] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [10:30:48,500] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [14:32:11,173] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-10] [14:38:54,173] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:01:13,623] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:23:29,407] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:25:31,231] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:28:37,509] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:48:59,278] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:55:53,844] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:55:54,087] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:56:27,569] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [07:58:10,223] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [13:54:04,882] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [13:54:28,445] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [13:55:33,906] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [14:07:05,672] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [14:09:04,157] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [14:09:05,136] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException: owner
+	at de.matthiasmann.twl.PopupWindow.<init>(PopupWindow.java:73)
+	at TWLSlick.BasicTWLGameState.disp(BasicTWLGameState.java:116)
+	at se.exuvo.mmo.client.gui.Loading.init(Loading.java:60)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-03-11] [14:09:37,534] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-11] [14:10:19,484] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-16] [07:59:45,389] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-29] [08:46:21,148] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-29] [09:17:26,336] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-29] [09:19:26,487] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [08:35:05,954] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [08:35:25,270] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [09:14:28,444] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [09:18:26,378] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [09:19:57,406] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-03-31] [09:21:54,551] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:14:05,357] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:16:18,771] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:18:18,658] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:20:16,602] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:20:29,792] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:20:50,355] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [22:45:40,759] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:03:51,567] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:04:38,640] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:08:50,182] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:09:49,387] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:10:17,247] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-16] [23:13:42,978] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [09:12:23,637] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [09:14:55,639] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:01:01,935] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:06:44,358] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:08:00,662] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:21:54,515] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:25:03,463] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:25:11,558] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [11:39:03,963] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [12:31:14,417] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:08:09,147] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:09:21,917] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:09:33,196] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:16:37,117] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:32:59,503] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:33:00,286] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.gui.Game$1.run(Game.java:125)
+	at org.newdawn.slick.CachedRender.build(CachedRender.java:47)
+	at org.newdawn.slick.CachedRender.<init>(CachedRender.java:35)
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:121)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:390)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-17] [14:33:53,888] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:34:59,039] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:40:12,127] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [14:42:18,904] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [15:15:22,085] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [16:52:33,573] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [16:53:30,259] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [17:01:00,344] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [17:34:34,721] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [18:54:08,249] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [18:58:34,859] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [18:59:45,522] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:10:25,456] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:15:04,714] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:44:29,855] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [19:44:42,229] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:241)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-05-17] [19:50:22,172] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:50:32,710] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:51:10,360] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [19:51:48,588] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:237)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-05-17] [19:54:05,276] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [19:54:25,650] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [19:54:36,417] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:237)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-05-17] [19:58:01,609] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [19:58:52,609] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at com.esotericsoftware.kryo.ObjectBuffer.readObject(ObjectBuffer.java:209)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:237)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 8 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+cost (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 16 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.get(IntSerializer.java:111)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.readObjectData(IntSerializer.java:61)
+	at com.esotericsoftware.kryo.serialize.IntSerializer.readObjectData(IntSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 18 more
+[FATAL] [2011-05-17] [20:21:40,172] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [20:22:55,927] [1-thread-1]  connection.Connectionn$1.run  - 
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:584)
+	at se.exuvo.mmo.client.connection.Connectionn$1.run(Connectionn.java:236)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.Kryo.readObject(Kryo.java:581)
+	... 7 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 15 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 17 more
+[FATAL] [2011-05-17] [20:31:34,922] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [20:31:48,416] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection: Connection 1
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:139)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:231)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:289)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 4 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 11 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 13 more
+[FATAL] [2011-05-17] [20:32:53,265] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [20:33:05,797] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection: Connection 1
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetZone
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:139)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:231)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:289)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetSquare
+Serialization trace:
+squares (se.exuvo.mmo.shared.world.NetZone)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:182)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readArray(ArraySerializer.java:173)
+	at com.esotericsoftware.kryo.serialize.ArraySerializer.readObjectData(ArraySerializer.java:147)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:212)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Compressor.readObjectData(Compressor.java:106)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 4 more
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+pathable (se.exuvo.mmo.shared.world.NetSquare)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 11 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.HeapByteBuffer.get(HeapByteBuffer.java:117)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:16)
+	at com.esotericsoftware.kryo.serialize.BooleanSerializer.readObjectData(BooleanSerializer.java:1)
+	at com.esotericsoftware.kryo.Serializer.readObject(Serializer.java:61)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:220)
+	... 13 more
+[FATAL] [2011-05-17] [20:37:36,088] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [20:39:12,759] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [20:39:44,256] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [20:40:54,174] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [20:46:08,168] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-05-17] [20:47:17,626] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection.
+com.esotericsoftware.kryo.SerializationException: Incorrect number of bytes (1 remaining) used to deserialize object: null
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:143)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:231)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:289)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-17] [20:57:33,368] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [20:59:57,837] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:00:07,332] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:00:15,936] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:02:07,928] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:04:12,259] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:04:58,100] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:15:40,674] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:16:36,992] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:19:07,683] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:19:58,338] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:42:16,430] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-17] [21:43:30,762] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+	at java.util.ArrayList.RangeCheck(ArrayList.java:547)
+	at java.util.ArrayList.get(ArrayList.java:322)
+	at com.esotericsoftware.kryonet.rmi.ObjectSpace$RemoteInvocationHandler.waitForResponse(ObjectSpace.java:344)
+	at com.esotericsoftware.kryonet.rmi.ObjectSpace$RemoteInvocationHandler.invoke(ObjectSpace.java:329)
+	at $Proxy3.issueCommand(Unknown Source)
+	at se.exuvo.mmo.client.gui.Game$5.callback(Game.java:342)
+	at de.matthiasmann.twl.EditField.doCallback(EditField.java:170)
+	at de.matthiasmann.twl.EditField.handleEvent(EditField.java:548)
+	at de.matthiasmann.twl.Widget.handleKeyEvent(Widget.java:2381)
+	at de.matthiasmann.twl.Widget.handleEvent(Widget.java:1575)
+	at de.matthiasmann.twl.Widget.handleKeyEvent(Widget.java:2381)
+	at de.matthiasmann.twl.Widget.handleEvent(Widget.java:1575)
+	at TWLSlick.RootPane.handleEvent(RootPane.java:81)
+	at de.matthiasmann.twl.GUI.sendEvent(GUI.java:826)
+	at de.matthiasmann.twl.GUI.handleKey(GUI.java:708)
+	at TWLSlick.TWLInputForwarder.keyPressed(TWLInputForwarder.java:121)
+	at org.newdawn.slick.Input.poll(Input.java:1172)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:635)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:408)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:63)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-17] [21:47:07,578] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-18] [09:23:53,252] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-18] [09:26:01,180] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-18] [09:26:55,349] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-18] [12:23:14,243] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [12:07:07,092] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [12:12:13,301] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [12:17:15,315] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [14:41:06,411] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [17:32:57,120] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:00:28,422] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:05:48,025] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:44:32,536] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:51:06,513] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:53:12,246] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [18:55:00,710] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:19:42,880] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:32:29,926] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:36:26,328] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:37:47,425] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:38:25,696] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:42:08,680] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:47:05,039] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:49:21,650] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-19] [19:53:20,055] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [09:33:07,330] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [09:35:02,981] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:44:04,735] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:44:04,727] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:44:26,202] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:51:56,082] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:52:47,796] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [10:53:14,646] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:33:24,968] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:35:29,338] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:41:21,269] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:42:55,117] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:43:28,809] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:45:05,556] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:45:45,632] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:46:11,381] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [11:49:46,027] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:01:05,858] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:03:30,197] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:03:39,638] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:06:56,372] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:08:38,700] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:09:38,135] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:18:02,701] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:18:37,861] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:20:02,807] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:21:09,402] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:22:18,876] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:23:07,290] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:23:50,538] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:24:21,442] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:24:44,663] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:28:44,252] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:33:02,785] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:34:25,628] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:38:54,514] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:41:39,705] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:42:40,526] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:50:53,327] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:50:53,870] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NoClassDefFoundError: Collidable
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(ClassLoader.java:632)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:616)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)
+	at java.net.URLClassLoader.access$000(URLClassLoader.java:58)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+	at se.exuvo.mmo.shared.ClassFinder.findClasses(ClassFinder.java:63)
+	at se.exuvo.mmo.shared.ClassFinder.findClasses(ClassFinder.java:59)
+	at se.exuvo.mmo.shared.ClassFinder.getClasses(ClassFinder.java:35)
+	at se.exuvo.mmo.client.world.Unit.init(Unit.java:30)
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:123)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:426)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.lang.ClassNotFoundException: Collidable
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	... 24 more
+[FATAL] [2011-05-20] [12:50:59,718] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [12:51:00,265] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NoClassDefFoundError: Collidable
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(ClassLoader.java:632)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:616)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)
+	at java.net.URLClassLoader.access$000(URLClassLoader.java:58)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+	at se.exuvo.mmo.shared.ClassFinder.findClasses(ClassFinder.java:63)
+	at se.exuvo.mmo.shared.ClassFinder.findClasses(ClassFinder.java:59)
+	at se.exuvo.mmo.shared.ClassFinder.getClasses(ClassFinder.java:35)
+	at se.exuvo.mmo.client.world.Unit.init(Unit.java:30)
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:123)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:426)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.lang.ClassNotFoundException: Collidable
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	... 24 more
+[FATAL] [2011-05-20] [13:01:17,317] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [13:04:19,462] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [13:09:13,871] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:05:02,892] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:16:37,233] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:16:46,653] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.gui.Game.mouseReleased(Game.java:538)
+	at TWLSlick.RootPane.handleEvent(RootPane.java:96)
+	at de.matthiasmann.twl.GUI.sendMouseEvent(GUI.java:802)
+	at de.matthiasmann.twl.GUI.handleMouse(GUI.java:604)
+	at TWLSlick.TWLInputForwarder.mouseReleased(TWLInputForwarder.java:94)
+	at org.newdawn.slick.Input.poll(Input.java:1230)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:635)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:444)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-20] [15:18:00,754] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:23:12,526] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:23:45,578] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.gui.Game.mouseReleased(Game.java:541)
+	at TWLSlick.RootPane.handleEvent(RootPane.java:96)
+	at de.matthiasmann.twl.GUI.sendMouseEvent(GUI.java:802)
+	at de.matthiasmann.twl.GUI.handleMouse(GUI.java:604)
+	at TWLSlick.TWLInputForwarder.mouseReleased(TWLInputForwarder.java:94)
+	at org.newdawn.slick.Input.poll(Input.java:1230)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:635)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:444)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-20] [15:26:44,811] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:27:34,311] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:27:36,540] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:32:46,162] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:42:43,624] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:48:24,752] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:54:45,644] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:55:08,324] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [15:56:04,102] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:05:31,309] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:06:46,562] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:08:57,373] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:08:57,910] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.world.Unit.load(Unit.java:140)
+	at se.exuvo.mmo.client.world.Unit.init(Unit.java:52)
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:125)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:426)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-20] [16:09:14,661] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:09:15,213] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.world.Unit.load(Unit.java:140)
+	at se.exuvo.mmo.client.world.Unit.init(Unit.java:52)
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:125)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:426)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:314)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-20] [16:10:47,010] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:11:27,520] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-20] [16:16:20,682] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-21] [23:02:47,818] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-21] [23:11:48,053] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-22] [23:47:10,277] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-22] [23:49:10,102] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-22] [23:49:45,484] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-22] [23:55:14,855] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-22] [23:58:05,762] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:00:25,163] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:24:03,141] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:25:31,935] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:27:09,764] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:28:26,272] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:30:34,642] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [00:35:09,551] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [10:41:38,346] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:20:40,757] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:21:12,820] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:25:43,848] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:28:48,236] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:29:36,169] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:29:57,224] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:31:03,676] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:31:53,412] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:32:31,291] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:36:20,992] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:39:06,847] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:39:56,720] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:43:54,526] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:44:48,558] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:51:38,958] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:59:44,196] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [11:59:59,279] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.gui.Game.useAbility(Game.java:694)
+	at se.exuvo.mmo.client.gui.Game$2.run(Game.java:304)
+	at de.matthiasmann.twl.utils.CallbackSupport.fireCallbacks(CallbackSupport.java:100)
+	at de.matthiasmann.twl.model.SimpleButtonModel.fireActionCallback(SimpleButtonModel.java:124)
+	at de.matthiasmann.twl.model.SimpleButtonModel.buttonAction(SimpleButtonModel.java:108)
+	at de.matthiasmann.twl.model.SimpleButtonModel.setPressed(SimpleButtonModel.java:81)
+	at de.matthiasmann.twl.Button.handleEvent(Button.java:268)
+	at de.matthiasmann.twl.GUI.sendMouseEvent(GUI.java:802)
+	at de.matthiasmann.twl.GUI.handleMouse(GUI.java:604)
+	at TWLSlick.TWLInputForwarder.mouseReleased(TWLInputForwarder.java:94)
+	at org.newdawn.slick.Input.poll(Input.java:1240)
+	at org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:641)
+	at org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:447)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:321)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-05-23] [12:00:19,036] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-23] [12:05:08,745] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-24] [08:25:17,100] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-24] [08:27:14,626] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [15:49:21,531] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [15:52:40,048] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [15:52:42,785] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [15:57:38,891] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [15:59:51,507] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [16:04:31,373] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [16:06:41,019] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [17:25:21,406] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-25] [17:39:43,691] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [08:40:55,158] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [08:50:25,230] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [08:56:02,600] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:13:41,481] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:15:53,256] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:16:26,425] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:17:21,175] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:25:43,242] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:26:40,823] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:27:51,320] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:28:38,211] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:29:09,637] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [09:30:01,055] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [11:37:44,623] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [11:39:37,241] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [11:52:30,348] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-05-26] [11:59:25,528] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [17:55:25,840] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:30:47,374] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:31:54,048] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:33:58,257] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:34:31,510] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:36:02,230] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-04] [18:39:32,795] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [20:51:56,602] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [20:55:39,301] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:43:54,520] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:46:15,526] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:47:35,712] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:49:02,067] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:49:02,688] [  Thread-3]                   gui.GUI.run  - Error in GUI
+java.lang.NullPointerException
+	at se.exuvo.mmo.client.gui.Game.init(Game.java:128)
+	at org.newdawn.slick.state.StateBasedGame.init(StateBasedGame.java:171)
+	at org.newdawn.slick.AppGameContainer.setup(AppGameContainer.java:429)
+	at org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:317)
+	at se.exuvo.mmo.client.gui.GUI.run(GUI.java:65)
+	at java.lang.Thread.run(Thread.java:619)
+[FATAL] [2011-06-06] [22:49:20,854] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:50:12,487] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:51:11,375] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:51:36,641] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:52:03,992] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:52:12,909] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-06-06] [22:52:47,910] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-07-16] [21:38:20,681] [      main]               client.Init.main  - ### Starting ###
+[ERROR] [2011-07-16] [21:52:02,236] [    Client]      shared.MinlogTolog4j.log  - [kryonet] Error updating connection.
+com.esotericsoftware.kryo.SerializationException: Buffer limit exceeded reading object of type: se.exuvo.mmo.shared.world.NetBlueprintAdd
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:561)
+	at com.esotericsoftware.kryonet.TcpConnection.readObject(TcpConnection.java:139)
+	at com.esotericsoftware.kryonet.Client.update(Client.java:231)
+	at com.esotericsoftware.kryonet.Client.run(Client.java:289)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: com.esotericsoftware.kryo.SerializationException: Serialization trace:
+buildingName (se.exuvo.mmo.shared.world.NetBlueprintAdd)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:230)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:192)
+	at com.esotericsoftware.kryo.Kryo.readClassAndObject(Kryo.java:558)
+	... 4 more
+Caused by: java.nio.BufferUnderflowException
+	at java.nio.Buffer.nextGetIndex(Buffer.java:474)
+	at java.nio.DirectByteBuffer.get(DirectByteBuffer.java:208)
+	at com.esotericsoftware.kryo.serialize.StringSerializer.get(StringSerializer.java:52)
+	at com.esotericsoftware.kryo.serialize.StringSerializer.readObjectData(StringSerializer.java:17)
+	at com.esotericsoftware.kryo.serialize.StringSerializer.readObjectData(StringSerializer.java:1)
+	at com.esotericsoftware.kryo.serialize.FieldSerializer.readObjectData(FieldSerializer.java:218)
+	... 6 more
+[FATAL] [2011-10-04] [16:55:49,433] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-10-04] [16:57:20,835] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-11-10] [14:53:27,755] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2011-12-05] [08:37:58,277] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2012-09-10] [18:10:18,493] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2012-09-10] [18:11:33,523] [      main]               client.Init.main  - ### Starting ###
