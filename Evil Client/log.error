@@ -1342,3 +1342,4 @@ Caused by: java.nio.BufferUnderflowException
 [FATAL] [2011-12-05] [08:37:58,277] [      main]               client.Init.main  - ### Starting ###
 [FATAL] [2012-09-10] [18:10:18,493] [      main]               client.Init.main  - ### Starting ###
 [FATAL] [2012-09-10] [18:11:33,523] [      main]               client.Init.main  - ### Starting ###
+[FATAL] [2012-10-08] [14:08:35,132] [      main]               client.Init.main  - ### Starting ###
