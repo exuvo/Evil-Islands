@@ -8,6 +8,7 @@ import org.apache.log4j.Logger;
 
 import se.exuvo.evil.server.Settings;
 import se.exuvo.evil.server.clients.Client;
+import se.exuvo.evil.server.world.systems.CollisionSystem;
 import se.exuvo.evil.server.world.systems.MovementSystem;
 import se.exuvo.evil.server.world.systems.RotationSystem;
 import se.exuvo.evil.server.world.systems.TerrainSystem;
@@ -44,8 +45,9 @@ public class Island extends World implements Runnable {
 		
 		setSystem(new MovementSystem());
 		setSystem(new RotationSystem());
+		setSystem(new CollisionSystem());
 		
-		setSystem(new TerrainSystem());//Do this last
+		setSystem(new TerrainSystem());//Do this after movement
 
 		initialize();
 	}

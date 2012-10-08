@@ -23,6 +23,7 @@ public class TerrainSystem extends EntityProcessingSystem {
 		super(Aspect.getAspectForAll(Velocity.class, Position.class));
 	}
 	
+	//TODO check for added/removed entities
 	protected void process(Entity e){
 		if(gm.isInGroup(e, Groups.BUILDINGS)){
 			Position p = pm.get(e);

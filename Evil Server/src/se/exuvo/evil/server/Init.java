@@ -107,7 +107,6 @@ public class Init {
 				console.setHelp("Enables the console.")
 		);
 		
-		
 		FlaggedOption port = new FlaggedOption("port")
 			.setStringParser(JSAP.STRING_PARSER)
 			.setDefault(JSAP.NO_DEFAULT)
