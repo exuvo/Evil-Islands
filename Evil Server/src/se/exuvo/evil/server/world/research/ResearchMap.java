@@ -1,4 +1,6 @@
-package se.exuvo.evil.server.world;
+package se.exuvo.evil.server.world.research;
+
+import java.util.List;
 
 /**
  * TODO I suggest Research should
@@ -28,9 +30,13 @@ public class ResearchMap {
     
     
     
-    public ResearchAble getByName(String name);
+    public ResearchAble get(String name) {
+    	// TODO
+    	return null;
+    }
     
-    public ResearchAble get(String name);
-    
-    public ResearchAble add(ResearchAble researchAble);
+    public ResearchAble add(ResearchAble researchAble) {
+    	// TODO
+    	return null;
+    }
 }

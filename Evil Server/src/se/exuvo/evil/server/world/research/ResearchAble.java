@@ -1,4 +1,4 @@
-package se.exuvo.evil.server.world;
+package se.exuvo.evil.server.world.research;
 
 
 public interface ResearchAble {
@@ -7,10 +7,8 @@ public interface ResearchAble {
     
     public String getDescription();
     
-    
     // TODO OBS: client-side only
-    public Image getIcon(); // TODO type
+    //public Image getIcon(); // TODO type
     
     
-    public int getProgress(); // 0-100 (%)
 }
