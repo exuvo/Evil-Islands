@@ -1,11 +1,13 @@
 package com.artemis.utils;
 
+import java.util.Iterator;
+
 /**
  * Collection type a bit like ArrayList but does not preserve the order of its
  * entities, speedwise it is very good, especially suited for games.
  */
 
-public class Bag<E> implements ImmutableBag<E> {
+public class Bag<E> implements ImmutableBag<E> , Iterable<E>{
 	private E[] data;
 	private int size = 0;
 
@@ -259,6 +261,29 @@ public class Bag<E> implements ImmutableBag<E> {
     ensureCapacity(size + numNew);
     System.arraycopy(a, 0, data, size, numNew);
     size += numNew;
+	}
+
+	@Override
+	public Iterator<E> iterator() {
+		return new Iterator<E>() {
+			int index = 0;
+
+			@Override
+			public boolean hasNext() {
+				return index < size;
+			}
+
+			@Override
+			public E next() {
+				return data[index++];
+			}
+
+			@Override
+			public void remove() {
+				Bag.this.remove(index);
+			}
+			
+		};
 	}
 
 }
