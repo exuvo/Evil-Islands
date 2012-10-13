@@ -3,6 +3,7 @@ package se.exuvo.evil.server.world.systems;
 import org.newdawn.slick.geom.Shape;
 import org.newdawn.slick.geom.Transform;
 
+import se.exuvo.evil.server.managers.PlayerManager;
 import se.exuvo.evil.server.world.Groups;
 import se.exuvo.evil.server.world.Island;
 import se.exuvo.evil.server.world.Square;
@@ -18,7 +19,6 @@ import com.artemis.ComponentMapper;
 import com.artemis.Entity;
 import com.artemis.annotations.Mapper;
 import com.artemis.managers.GroupManager;
-import com.artemis.managers.PlayerManager;
 import com.artemis.systems.IntervalEntitySystem;
 import com.artemis.utils.Bag;
 import com.artemis.utils.ImmutableBag;
@@ -149,7 +149,7 @@ public class CollisionSystem extends IntervalEntitySystem {
 			return true;
 		}
 
-		if (pm.getPlayer(e1).hashCode() == pm.getPlayer(e2).hashCode()) {
+		if (pm.getPlayer(e1).getID() == pm.getPlayer(e2).getID()) {
 			return false;
 		}
 
