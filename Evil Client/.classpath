@@ -6,11 +6,11 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/StandardUtils"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/JSAP"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Settings"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/MMO Shared"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/TWL"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/kryo"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/kryonet"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Slick"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Evil Network"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
