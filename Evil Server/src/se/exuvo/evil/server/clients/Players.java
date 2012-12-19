@@ -2,7 +2,7 @@ package se.exuvo.evil.server.clients;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicLong;
+import java.util.concurrent.atomic.AtomicInteger;
 
 import org.apache.log4j.Logger;
 
@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 public class Players {
 	private static final Logger log = Logger.getLogger(Players.class);
 	private static List<Player> players = new ArrayList<Player>();
-	static AtomicLong counter = new AtomicLong(1);//TODO load counter from database
+	static AtomicInteger counter = new AtomicInteger(1);//TODO load counter from database
 	
 	public static synchronized boolean load(){
 		return false;

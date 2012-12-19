@@ -11,68 +11,67 @@ import se.exuvo.evil.server.clients.Client;
 import se.exuvo.evil.server.clients.Client.Access;
 import se.exuvo.evil.shared.ClassFinder;
 
-
 public class Parser {
 	private static final Logger log = Logger.getLogger(Parser.class);
 	private static List<Command> commands = new ArrayList<Command>();
-	
-	public static void init(){
+
+	public static void init() {
 		commands.clear();
 		log.debug("Loading commands");
 		try {
 			List<Class<?>> l = ClassFinder.getClasses("se.exuvo.mmo.server.commands");
-			for(Class<?> c : l){
-				if(Command.class.isAssignableFrom(c) && !c.equals(Command.class)){
+			for (Class<?> c : l) {
+				if (Command.class.isAssignableFrom(c) && !c.equals(Command.class)) {
 					try {
 						Class<? extends Command> cc = c.asSubclass(Command.class);
 						Command p = cc.newInstance();
-						if(p.getName() != null && !p.getName().equals("")){
+						if (p.getName() != null && !p.getName().equals("")) {
 							commands.add(p);
 							log.trace("Loaded command: " + p.getName());
 						}
 					} catch (Throwable e) {
 						log.warn("Failed to load command: \"" + c.getSimpleName() + "\"", e);
-					} 
+					}
 				}
 			}
 		} catch (ClassNotFoundException e) {
-			log.warn("Failed to load commands",e);
+			log.warn("Failed to load commands", e);
 		} catch (IOException e) {
-			log.warn("Failed to load commands",e);
+			log.warn("Failed to load commands", e);
 		}
 	}
-	
-	public String parse(String phrase, Client client){
+
+	public String parse(String phrase, Client client) {
 		log.debug("Parsing Command:" + phrase);
 		String delims = "[ ]+";
 		String[] tokens = phrase.split(delims);
-		
+
 		return parsecommand(tokens, phrase, client) + '\n';
 	}
-	
-	private String parsecommand(String[] tokens, String phrase, Client client){
-		if(tokens[0].equalsIgnoreCase("help")){
+
+	private String parsecommand(String[] tokens, String phrase, Client client) {
+		if (tokens[0].equalsIgnoreCase("help")) {
 			StringBuffer help = new StringBuffer();
-			for(Iterator<Command> it = commands.iterator();it.hasNext();){
+			for (Iterator<Command> it = commands.iterator(); it.hasNext();) {
 				Command c = it.next();
 				help.append("\n" + c.getName() + ":\n");
-				/*help.append(" Names:");
-				for(Iterator<String> names = c.getNames().iterator();names.hasNext();){
-					help.append(names.next() + "; ");
-				}*/
+//				help.append(" Names:");
+//				for(Iterator<String> names = c.getNames().iterator();names.hasNext();){
+//					help.append(names.next() + "; ");
+//				}
 				help.append("  " + c.getDescription());
 			}
-			
+
 			return help.toString();
-		
-		}else{
-			for(Iterator<Command> it = commands.iterator(); it.hasNext();){
+
+		} else {
+			for (Iterator<Command> it = commands.iterator(); it.hasNext();) {
 				Command c = it.next();
-				for(Iterator<String> names = c.getNames().iterator();names.hasNext();){
-					if(tokens[0].equalsIgnoreCase(names.next())){
-						if(client != null){
-							for(Access a : c.getRequiredAccess()){
-								if(! client.hasAccess(a)){
+				for (Iterator<String> names = c.getNames().iterator(); names.hasNext();) {
+					if (tokens[0].equalsIgnoreCase(names.next())) {
+						if (client != null) {
+							for (Access a : c.getRequiredAccess()) {
+								if (!client.hasAccess(a)) {
 									return "You must be \"" + a + "\" to issue this command!";
 								}
 							}
@@ -82,8 +81,7 @@ public class Parser {
 				}
 			}
 		}
-		
+
 		return "Unknown command \nTo see a list of avaible commands enter \"help\"";
 	}
 }
-

@@ -3,7 +3,7 @@ package se.exuvo.evil.server.world;
 import java.util.HashSet;
 import java.util.Set;
 
-import se.exuvo.evil.server.world.components.CollisionShape.CollisionLayer;
+import se.exuvo.evil.server.world.components.CollisionComponent.CollisionLayer;
 import se.exuvo.evil.shared.world.NetSquare;
 
 import com.artemis.Entity;

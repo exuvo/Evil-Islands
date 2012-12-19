@@ -7,9 +7,9 @@ import se.exuvo.evil.server.managers.PlayerManager;
 import se.exuvo.evil.server.world.Groups;
 import se.exuvo.evil.server.world.Island;
 import se.exuvo.evil.server.world.Square;
-import se.exuvo.evil.server.world.components.CollisionShape;
-import se.exuvo.evil.server.world.components.CollisionShape.CollisionLayer;
-import se.exuvo.evil.server.world.components.CollisionShape.LayerCheck;
+import se.exuvo.evil.server.world.components.CollisionComponent;
+import se.exuvo.evil.server.world.components.CollisionComponent.CollisionLayer;
+import se.exuvo.evil.server.world.components.CollisionComponent.LayerCheck;
 import se.exuvo.evil.server.world.components.Position;
 import se.exuvo.evil.server.world.components.Rotation;
 import se.exuvo.evil.server.world.components.Velocity;
@@ -25,14 +25,14 @@ import com.artemis.utils.ImmutableBag;
 
 public class CollisionSystem extends IntervalEntitySystem {
 	@Mapper private ComponentMapper<Velocity> vm;
-	@Mapper ComponentMapper<CollisionShape> cm;
+	@Mapper ComponentMapper<CollisionComponent> cm;
 	@Mapper ComponentMapper<Rotation> rm;
 	private GroupManager gm;
 	private PlayerManager pm;
 
 	@SuppressWarnings("unchecked")
 	public CollisionSystem() {
-		super(Aspect.getAspectForAll(Velocity.class, CollisionShape.class, Rotation.class), 0.1f);
+		super(Aspect.getAspectForAll(Velocity.class, CollisionComponent.class, Rotation.class), 0.1f);
 		gm = world.getManager(GroupManager.class);
 		pm = world.getManager(PlayerManager.class);
 	}
@@ -45,7 +45,7 @@ public class CollisionSystem extends IntervalEntitySystem {
 		for (int i = 0; i < entities.size(); i++) {
 			Entity e1 = entities.get(i);
 			Position p1 = vm.get(e1).getNext();
-			CollisionShape c1 = cm.get(e1);
+			CollisionComponent c1 = cm.get(e1);
 			Rotation r1 = rm.get(e1);
 
 			{// Terrain collision
@@ -101,7 +101,7 @@ public class CollisionSystem extends IntervalEntitySystem {
 					continue;
 
 				Position p2 = vm.get(e2).getNext();
-				CollisionShape c2 = cm.get(e2);
+				CollisionComponent c2 = cm.get(e2);
 				Rotation r2 = rm.get(e2);
 
 				// Collision check

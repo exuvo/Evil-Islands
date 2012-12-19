@@ -10,14 +10,14 @@ public class Player {
 	private static final Logger log = Logger.getLogger(Player.class);
 	private String username;
 	private String password;
-	private long id = -1;
+	private int id = -1;
 	private Island island;
 	private Genius genius;
 	
-	public Player(String username, String password, long id){
+	public Player(String username, String password, int id){
 		setUsername(username);
 		setPassword(password);
-		setID(id);
+		this.id = id;
 	}
 
 	public void setUsername(String username) {
@@ -26,10 +26,6 @@ public class Player {
 
 	public String getUsername() {
 		return username;
-	}
-
-	public void setID(long id) {
-		this.id = id;
 	}
 
 	public long getID() {
@@ -58,6 +54,16 @@ public class Player {
 
 	public Genius getGenius() {
 		return genius;
+	}
+	
+	@Override
+	public String toString(){
+		return username;
+	}
+	
+	@Override
+	public int hashCode(){
+		return (int) id;
 	}
 
 }

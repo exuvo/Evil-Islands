@@ -1,15 +1,14 @@
 package se.exuvo.evil.server.world.components;
 
-import java.util.Collections;
+import java.util.Collection;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 import org.newdawn.slick.geom.Shape;
 
 import com.artemis.Component;
 
-public class CollisionShape extends Component {
+public class CollisionComponent extends Component {
 	private Shape shape;
 
 	public enum CollisionLayer {
@@ -36,6 +35,13 @@ public class CollisionShape extends Component {
 
 	private Set<LayerCheck> layers = new HashSet<LayerCheck>();
 
+	public CollisionComponent() {};
+
+	public CollisionComponent(Shape s, Collection<LayerCheck> cls) {
+		shape = s;
+		layers.addAll(cls);
+	}
+
 	public Set<LayerCheck> getLayers() {
 		return layers;
 	}
@@ -56,7 +62,7 @@ public class CollisionShape extends Component {
 		this.shape = shape;
 	}
 
-	public class LayerCheck {
+	public static class LayerCheck {
 		private Set<CollisionLayer> layers = new HashSet<CollisionLayer>();
 		private boolean requireAll, exclusion;
 
