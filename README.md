@@ -1,4 +1,4 @@
 Evil-Islands
 ============
 
-Multiplayer Evil Genius, someday.
+Multiplayer Evil Genius, never.
